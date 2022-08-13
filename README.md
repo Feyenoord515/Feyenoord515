@@ -16,6 +16,15 @@
  Individual, Countries-app construi una App utlizando React, Redux, Node, Sequelize y css.
  https://github.com/Feyenoord515/PI-Countries
  <br>
+ <br>
+ 
+![Captura de pantalla (32)](https://user-images.githubusercontent.com/86387334/184498194-873eba9c-2de9-4458-a92d-c56bb21513d5.png)
+<br>
+<br>
+![Captura de pantalla (33)](https://user-images.githubusercontent.com/86387334/184498199-bbd7bd0f-c768-4296-8b5e-1d29e8b9339d.png)
+
+
+ <br>
 
 
 ## 🌐 Socials:
