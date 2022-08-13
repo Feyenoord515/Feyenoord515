@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/86387334/184496051-d90a2ad1-bd2b-468e-b7a9-578c78c2f036.png)
+
+
+
+
 # 💫 About Me:
  Hola Mundo! Soy Nahuel 👋<br><br>🔭 Full Stack Developer curioso, organizado y apasionado. Trabajo en equipo, cooperativo y dinamico, apuntando a resultados y al aprendisaje diario.<br><br>🌱 Actualmente en el desafio de encontar mi primer experiencia laboral post Henry Bootcamp(https://www.soyhenry.com/about-us). <br>⚡  Las tecnologias aprendidas y aplicadas en el bootcamp, y proyectos grupales e individuales <br>. Javascript<br>. ReactJs<br>. Redux<br>. PostgreSQL<br>. Sequelize<br>. NodeJs<br>. Express<br>. HTML5<br>. CSS3<br>. SCRUM methodologies<br>. Tailwind<br>. Git | Github <br><br>👯 Sumado a esto, trabajo hace mas de 15 años en equipo,cumpliendo objetivos semanales o mensuales con orientacion a satisfacer con creces las necesidades del cliente.<br>
 
