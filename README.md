@@ -4,7 +4,18 @@
 
 
 # 💫 About Me:
- Hola Mundo! Soy Nahuel 👋<br><br>🔭 Full Stack Developer curioso, organizado y apasionado. Trabajo en equipo, cooperativo y dinamico, apuntando a resultados y al aprendisaje diario.<br><br>🌱 Actualmente en el desafio de encontar mi primer experiencia laboral post Henry Bootcamp(https://www.soyhenry.com/about-us). <br>⚡  Las tecnologias aprendidas y aplicadas en el bootcamp, y proyectos grupales e individuales <br>. Javascript<br>. ReactJs<br>. Redux<br>. PostgreSQL<br>. Sequelize<br>. NodeJs<br>. Express<br>. HTML5<br>. CSS3<br>. SCRUM methodologies<br>. Tailwind<br>. Git | Github <br><br>👯 Sumado a esto, trabajo hace mas de 15 años en equipo,cumpliendo objetivos semanales o mensuales con orientacion a satisfacer con creces las necesidades del cliente.<br>
+ Hola Mundo! Soy Nahuel 👋<br><br>🔭 Full Stack Developer curioso, organizado y apasionado. Trabajo en equipo, cooperativo y dinamico, apuntando a resultados y al aprendisaje diario.<br><br>🌱 Actualmente en el desafio de encontar mi primer experiencia laboral post Henry Bootcamp(https://www.soyhenry.com/about-us). <br>⚡  Las tecnologias aprendidas y aplicadas en el bootcamp, y proyectos grupales e individuales <br>. Javascript<br>. ReactJs<br>. Redux<br>. PostgreSQL<br>. Sequelize<br>. NodeJs<br>. Express<br>. HTML5<br>. CSS3<br>. SCRUM methodologies<br>. Tailwind<br>. Git | Github <br><br>👯 Sumado a esto, trabajo hace mas de 15 años en equipo,cumpliendo objetivos semanales o mensuales con orientacion a satisfacer con creces las necesidades del cliente. <br>
+  <br>
+ Mis Proyectos:
+  <br>
+   <br>
+ Grupal, realizado en el marco del Henry Bootcamp en el cual se espera que un grupo de alumnos integren todo lo aprendido, realizando un e-commerce integro.
+ https://pg-vinos.vercel.app/
+  <br>
+   <br>
+ Individual, Countries-app construi una App utlizando React, Redux, Node, Sequelize y css.
+ https://github.com/Feyenoord515/PI-Countries
+ <br>
 
 
 ## 🌐 Socials:
