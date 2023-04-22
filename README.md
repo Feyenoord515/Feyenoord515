@@ -5,7 +5,7 @@
 
 
 # 💫 Sobre mí:
-Hola Mundo! Soy Nahuel 👋<br><br>🔭 Soy un Full Stack Developer curioso, organizado y apasionado por la programación. Me encanta trabajar en equipo, aprender cosas nuevas y enfrentar desafíos técnicos.<br><br>🌱 Actualmente busco mi primer experiencia laboral como desarrollador Full Stack.<br><br>⚡ Durante mi tiempo en Henry Bootcamp (https://www.soyhenry.com/about-us), aprendí y apliqué una variedad de tecnologías y metodologías, como:<br><br>
+Hola Mundo! Soy Nahuel 👋<br><br>🔭 Soy un Full Stack Developer curioso, organizado y apasionado por la programación. Me encanta trabajar en equipo, aprender cosas nuevas y enfrentar desafíos técnicos.<br><br>🌱 Actualmente busco ganar experiencia como desarrollador Full Stack.<br><br>⚡ Durante mi tiempo en Henry Bootcamp (https://www.soyhenry.com/about-us), aprendí y apliqué una variedad de tecnologías y metodologías, como:<br><br>
 - JavaScript<br>
 - React<br>
 - Redux<br>
