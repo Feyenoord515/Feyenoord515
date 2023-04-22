@@ -42,7 +42,6 @@ Curso intensivo de desarrollo web Full Stack utilizando tecnologías como JavaSc
 - LinkedIn: [perfil de LinkedIn](https://www.linkedin.com/in/nahuel-molinari/)
 - GitHub: [perfil de GitHub](https://github.com/Feyenoord515)
 - Email: n.enriquemolinari@gmail.com
-- Teléfono: +54 1152201322
 - Ciudad: Buenos Aires, Argentina.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=feyenoord515&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
