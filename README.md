@@ -3,35 +3,47 @@
 
 
 
-# 💫 About Me:
- Hola Mundo! Soy Nahuel 👋<br><br>🔭 Full Stack Developer curioso, organizado y apasionado. Trabajo en equipo, cooperativo y dinamico, apuntando a resultados y al aprendisaje diario.<br><br>🌱 Actualmente en el desafio de encontar mi primer experiencia laboral post Henry Bootcamp(https://www.soyhenry.com/about-us). <br>⚡  Las tecnologias aprendidas y aplicadas en el bootcamp, y proyectos grupales e individuales <br>. Javascript<br>. ReactJs<br>. Redux<br>. PostgreSQL<br>. Sequelize<br>. NodeJs<br>. Express<br>. HTML5<br>. CSS3<br>. SCRUM methodologies<br>. Tailwind<br>. Git | Github <br><br>👯 Sumado a esto, trabajo hace mas de 15 años en equipo,cumpliendo objetivos semanales o mensuales con orientacion a satisfacer con creces las necesidades del cliente. <br>
-  <br>
- Mis Proyectos:
-  <br>
-   <br>
- Grupal, realizado en el marco del Henry Bootcamp en el cual se espera que un grupo de alumnos integren todo lo aprendido, realizando un e-commerce integro.
- https://pg-vinos.vercel.app/
-  <br>
-   <br>
- Individual, Countries-app construi una App utlizando React, Redux, Node, Sequelize y css.
- https://github.com/Feyenoord515/PI-Countries
- <br>
- <br>
- 
-![Captura de pantalla (32)](https://user-images.githubusercontent.com/86387334/184498194-873eba9c-2de9-4458-a92d-c56bb21513d5.png)
-<br>
-<br>
-![Captura de pantalla (33)](https://user-images.githubusercontent.com/86387334/184498199-bbd7bd0f-c768-4296-8b5e-1d29e8b9339d.png)
 
+# 💫 Sobre mí:
+Hola Mundo! Soy Nahuel 👋<br><br>🔭 Soy un Full Stack Developer curioso, organizado y apasionado por la programación. Me encanta trabajar en equipo, aprender cosas nuevas y enfrentar desafíos técnicos.<br><br>🌱 Actualmente busco mi primer experiencia laboral como desarrollador Full Stack.<br><br>⚡ Durante mi tiempo en Henry Bootcamp (https://www.soyhenry.com/about-us), aprendí y apliqué una variedad de tecnologías y metodologías, como:<br><br>
+- JavaScript<br>
+- React<br>
+- Redux<br>
+- PostgreSQL<br>
+- Sequelize<br>
+- Node.js<br>
+- Express<br>
+- HTML5<br>
+- CSS3<br>
+- Metodologías ágiles (SCRUM)<br>
+- Tailwind CSS<br>
+- Git / GitHub<br>
 
- <br>
+👯 Además, he trabajado en equipo durante más de 15 años, cumpliendo con los objetivos del cliente de manera efectiva y puntual.<br>
 
+Mis proyectos:<br><br>
+- E-commerce de vinos: Proyecto grupal realizado en Henry Bootcamp. Participé en el diseño y desarrollo de un e-commerce para la gestión y comercialización de vinos. Utilicé tecnologías como React, Redux, Tailwind, Node.js, Express, PostgreSQL y Sequelize.<br>
+- Countries-App: Proyecto individual en el que construí una aplicación utilizando React, Redux, Node.js, Sequelize y CSS. Puedes encontrar el código fuente en mi perfil de GitHub.<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahuel-enrique-molinari) 
+# 👨‍💻 Experiencia laboral:
+- Full Stack Web Developer en ONG Grupo Barrial, Buenos Aires, Argentina.<br>
+En este proyecto, trabajé en equipo con profesionales del rubro, desarrollando aplicaciones educativas como Tic-tac-Toe, datos del clima, reproductor de música y clon de YouTube utilizando Firebase, Docker y AntDesign.<br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+- Full Stack Web Developer en un proyecto de mensajería, Buenos Aires, Argentina.<br>
+Diseñé y desarrollé una aplicación de mensajería para uso interno en una empresa agropecuaria utilizando React, Redux, Firebase Firestore y firestore/auth para la autenticación de usuarios.<br>
+
+- Desarrollador Full Stack en un proyecto de búsqueda de recetas de cocina, Buenos Aires, Argentina.<br>
+Diseñé y desarrollé una aplicación de búsqueda de recetas de cocina utilizando React, Redux, Node.js, Express, PostgreSQL y Sequelize.<br>
+
+# 📚 Educación:
+- Henry Bootcamp, Buenos Aires, Argentina.<br>
+Curso intensivo de desarrollo web Full Stack utilizando tecnologías como JavaScript, React, Redux, Node.js, Express, PostgreSQL y Sequelize.<br>
+# 📧 Contacto:
+- LinkedIn: [perfil de LinkedIn](https://www.linkedin.com/in/nahuel-molinari/)
+- GitHub: [perfil de GitHub](https://github.com/Feyenoord515)
+- Email: n.enriquemolinari@gmail.com
+- Teléfono: +54 1152201322
+- Ciudad: Buenos Aires, Argentina.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=feyenoord515&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=feyenoord515&theme=dark&hide_border=false)<br/>
